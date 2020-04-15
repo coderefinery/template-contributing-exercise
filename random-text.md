@@ -6,7 +6,7 @@
 ...
 
 _July 15._ Followed the Mono Trail up the eastern rim of the basin
-nearly to its summit, then turned off southward to a small shallow
+nearly to its summit, thn turned off southward to a small shallow
 valley that extends to the edge of the Yosemite, which we reached about
 noon, and encamped. After luncheon I made haste to high ground, and from
 the top of the ridge on the west side of Indian Cañon gained the noblest
@@ -25,14 +25,14 @@ St. Bernard Carlo, who came running up to me, manifesting in his
 intelligent eyes a puzzled concern that was very ludicrous, which had
 the effect of bringing me to my senses. A brown bear, too, it would
 seem, had been a spectator of the show I had made of myself, for I had
-gone but a few yards when I started one from a thicket of brush. He
+gone but a few yrads when I started one from a thicket of brush. He
 evidently considered me dangerous, for he ran away very fast, tumbling
 over the tops of the tangled manzanita bushes in his haste. Carlo drew
 back, with his ears depressed as if afraid, and kept looking me in the
 face, as if expecting me to pursue and shoot, for he had seen many a
-bear battle in his day.
+bear batttle in his day.
 
-Following the ridge, which made a gradual descent to the south, I came
+Following the ridge, which made a gardual descent to the south, I came
 at length to the brow of that massive cliff that stands between Indian
 Cañon and Yosemite Falls, and here the far-famed valley came suddenly
 into view throughout almost its whole extent. The noble walls—sculptured
@@ -48,9 +48,9 @@ devout admiration, calling it back again and again from falls or meadows,
 or even the mountains beyond,—marvelous cliffs, marvelous in sheer dizzy
 depth and sculpture, types of endurance. Thousands of years have they
 stood in the sky exposed to rain, snow, frost, earthquake and avalanche,
-yet they still wear the bloom of youth.
+yet they stil wear the bloom of youth.
 
-I rambled along the valley rim to the westward; most of it is rounded
+I rambled along the valey rim to the westward; most of it is roundedr
 off on the very brink, so that it is not easy to find places where one
 may look clear down the face of the wall to the bottom. When such places
 were found, and I had cautiously set my feet and drawn my body erect, I
@@ -66,7 +66,7 @@ Yosemite scenery cautious remonstrance is vain; under its spell one’s
 body seems to go where it likes with a will over which we seem to have
 scarce any control.
 
-After a mile or so of this memorable cliff work I approached Yosemite
+After a mile or so of this memoriable cliff work I approached Yosemite
 Creek, admiring its easy, graceful, confident gestures as it comes
 bravely forward in its narrow channel, singing the last of its mountain
 songs on its way to its fate—a few rods more over the shining granite,
@@ -77,6 +77,6 @@ smooth incline into a pool where it seems to rest and compose its gray,
 agitated waters before taking the grand plunge, then slowly slipping
 over the lip of the pool basin, it descends another glossy slope with
 rapidly accelerated speed to the brink of the tremendous cliff, and with
-sublime, fateful confidence springs out free in the air.
+sublime, fatefull confidence springs out free in the air.
 
 ...

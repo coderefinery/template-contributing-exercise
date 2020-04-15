@@ -6,9 +6,10 @@ As an example we will collaboratively develop a cookbook for taco recipes,
 inspired by [tacofancy](https://github.com/sinker/tacofancy).
 
 
-### Our goal
+### Our goals
 
-Contribute a taco recipe to this cookbook.
+- Contribute a taco recipe to this cookbook.
+- [random-text.md](random-text.md) can be used to practice trivial changes (typos).
 
 
 ### Notes for instructors
