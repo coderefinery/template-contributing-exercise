@@ -1,5 +1,7 @@
 > Excerpt from "My First Summer in the Sierra" by John Muir.
 > Text is in the public domain, taken from https://www.gutenberg.org/files/32540/32540-0.txt.
+> **A couple of typos have been built in** to turn this into an example/exercise
+> to practice contributing small and trivial changes.
 
 ...
 
