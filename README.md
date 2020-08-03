@@ -2,17 +2,7 @@
 
 ## Exercise repository to practice contributing changes
 
-As an example we will collaboratively develop a cookbook for taco recipes,
-inspired by [tacofancy](https://github.com/sinker/tacofancy).
-
-
-### Our goals
-
-- Contribute a taco recipe to this cookbook.
-- [random-text.md](random-text.md) can be used to practice trivial changes (typos).
-
-
-### Notes for instructors
-
-This is a simpler version of
-https://github.com/coderefinery/template-forking-workflow-exercise.
+As an example we will collaboratively improve a cookbook for salad recipes.
+The text is taken from
+[Fifty Salads by Thomas J. Murrey](https://www.gutenberg.org/ebooks/24542)
+on [Project Gutenberg](https://www.gutenberg.org/).
